@@ -1,0 +1,20 @@
+0 0 0 0 0 0 
+0 0 1 1 1 0 
+0 1 0 1 0 1 
+0 1 1 0 0 0 
+0 1 0 0 0 0 
+0 0 1 0 0 0 
+Currently visiting: 1
+Currently visiting: 2
+Currently visiting: 3
+Currently visiting: 4
+Currently visiting: 5
+
+DFS:
+
+Currently visiting: 1
+Currently visiting: 2
+Currently visiting: 3
+Currently visiting: 5
+Currently visiting: 4
+The given graph is false connected
